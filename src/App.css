@@ -1,0 +1,14 @@
+/* styles.css */
+.app {
+  text-align: center;
+  padding: 20px;
+  background-color: #f0f8ff;
+}
+
+.child {
+  margin-top: 20px;
+  padding: 10px;
+  background-color: #d3f4ff;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
